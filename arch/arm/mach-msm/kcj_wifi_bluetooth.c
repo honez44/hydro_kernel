@@ -26,7 +26,7 @@ G01-SWD0275-00007   11/11/28 MACアドレス書き込み処理追加
 #include <mach/kcj_dev_info.h>
 
 /* G01-SWD0275-00007 MACアドレス書き込み処理追加 */
-#include <proc_comm.h>
+#include "proc_comm.h"
 
 #include <mach/kcj_wifi_bluetooth.h>
 

@@ -29,7 +29,7 @@
 #include <linux/irq.h>
 #include <linux/gpio.h>
 #include <mach/hs_io_ctl_a.h>
-#include <apds9900.h>
+#include "apds9900.h"
 
 
 /*****************************************************************************/

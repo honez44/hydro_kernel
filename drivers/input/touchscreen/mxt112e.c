@@ -20,7 +20,7 @@
 
 #include <mach/proc_comm_kyocera.h>
 
-#include <../../staging/android/select_class.h> 
+#include "../../staging/android/select_class.h"
 
 #ifdef CONFIG_HAS_EARLYSUSPEND
 #include <linux/earlysuspend.h>
